@@ -75,6 +75,5 @@ Todos
 
 Luis Rodrigues
 - https://github.com/chegos
-- https://roadmap.sh/projects/todo-list-api
 
 
